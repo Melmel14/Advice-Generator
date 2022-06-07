@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --light-blue: hsl(196, 43%, 86%);
+    --neon-blue: hsl(177, 83%, 72%);
+    --grayish-blue: hsl(213, 17%, 32%);
+    --dark-grayish-blue: hsl(217, 19%, 24%);
+    --dark-blue: hsl(218, 23%, 16%);
+}
+
+img {
+    max-width: 100%;
+    line-height: 1.5;
+}
+
+body {
+    font-family: "Manrope", sans-serif;
+    font-size: 16px;
+    background-image: url("./images/background.jpg");
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    padding: 1.25rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: calc(100vh - 0.1px);
+}
+
+p {
+    font-size: 28px;
+}
+
+.container picture img {
+    background-color: var(--grayish-blue);
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.container picture::before {
+    content: "";
+    width: 40%;
+    height: 1px;
+    background-color: var(--light-blue);
+    right: 1.25rem;
+    bottom: 3.8rem;
+    position: absolute;
+    display: block;
+    z-index: 99;
+}
+
+.container picture::after {
+    content: "";
+    width: 45%;
+    height: 1px;
+    background-color: var(--light-blue);
+    left: 0;
+    bottom: 1.7rem;
+    position: relative;
+    display: block;
+}
+
+.container {
+    background-color: var(--grayish-blue);
+    padding: 1.25rem 1.25rem 2rem;
+    border-radius: 1rem;
+    position: relative;
+}
+
+.container h1 {
+    color: var(--neon-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.4rem;
+    font-size: 0.825rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.container p {
+    margin-bottom: 2rem;
+    color: var(--light-blue);
+}
+
+.container button {
+    background-color: var(--neon-blue);
+    padding: 1.25rem;
+    border: none;
+    border-radius: 50%;
+    transition: background-color 0.3s ease-in-out;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.container button:hover {
+    background-color: hsl(200, 53%, 83%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 4rem;
+    color: var(--light-blue);
+}
+
+.attribution a {
+    color: hsl(228, 31%, 40%);
+    transition: color 0.3s ease-in-out;
+}
+
+.attribution a:hover {
+    color: hsl(228, 41%, 37%);
+}
+
+@media (min-width: 500px) {
+    .container {
+        max-width: 480px;
+    }
+}
