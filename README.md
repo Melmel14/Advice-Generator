@@ -21,6 +21,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### The challenge
 
+The  challenge is to build out this advice generator app using the Advice Slip API and get it looking as close to the design as possible. 
+
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
@@ -34,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-QMgOzuY8Em)
+- Live Site URL: [Add live site URL here](https://statuesque-duckanoo-f3d343.netlify.app/)
 
 ## My process
 
@@ -46,55 +48,35 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- JS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I practiced my Frontend skills by adding the code to this challenge and the JS functions to make this work with the API advice generator, it was a bit challenging on getting the right formula in JS and after web search I managed to get it right and connected. 
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Another challenge I faced was that one of my Chrome extensions was blocking the JS functions and it wasn't generating any advises, I managed to find the root cause and disable the extension. I think that this challenge was within my knowledge scope and besides this, no other challenges were found. 
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.youtube.com/watch?v=9Wo_rj2dhkw) - This helped me to corroborate my JS code but eventually I noticed that was the extension causing the error.
+- [Example resource 2](https://www.ls.graphics/free-mockups) - I used the mockup from here, make sure you have adobe Photoshop or Adobe XD as is required to edit the mockup.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - Working on it!
+- LinkedIn - [Melody Hall](www.linkedin.com/in/melody-hall)
+- Youtube - [Yay It's Melody](https://www.youtube.com/channel/UCYekyhEz40BCwegxKtnaSBw)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
+I would say the youtuber tsbsankara as I was able to compare my JS code with him to make sure it was correct. 
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
