@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-QMgOzuY8Em)
-- Live Site URL: [Add live site URL here](https://statuesque-duckanoo-f3d343.netlify.app/)
+- Solution URL: [Solution website](https://www.frontendmentor.io/solutions/advice-generator-QMgOzuY8Em)
+- Live Site URL: [Live site](https://statuesque-duckanoo-f3d343.netlify.app/)
 
 ## My process
 
@@ -64,14 +64,14 @@ Another challenge I faced was that one of my Chrome extensions was blocking the 
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=9Wo_rj2dhkw) - This helped me to corroborate my JS code but eventually I noticed that was the extension causing the error.
-- [Example resource 2](https://www.ls.graphics/free-mockups) - I used the mockup from here, make sure you have adobe Photoshop or Adobe XD as is required to edit the mockup.
+- [Youtube video](https://www.youtube.com/watch?v=9Wo_rj2dhkw) - This helped me to corroborate my JS code but eventually I noticed that was the extension causing the error.
+- [Mockup website](https://www.ls.graphics/free-mockups) - I used the mockup from here, make sure you have adobe Photoshop or Adobe XD as is required to edit the mockup.
 
 
 ## Author
 
 - Website - Working on it!
-- LinkedIn - [Melody Hall](www.linkedin.com/in/melody-hall)
+- LinkedIn - [Melody Hall](https://www.linkedin.com/in/melody-hall)
 - Youtube - [Yay It's Melody](https://www.youtube.com/channel/UCYekyhEz40BCwegxKtnaSBw)
 
 
